@@ -5,3 +5,6 @@ nav:
   - Resources: resources.md
 theme:
   name: material
+
+repo_name: ajschmitty/prodsec-interview-prep
+repo_url: https://github.com/ajschmitty/prodsec-interview-prep
