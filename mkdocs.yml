@@ -3,7 +3,9 @@ site_name: Product Security Interview Prep
 nav:
   - Home: index.md
   - Architecture: architecture.md
-  - Resources: resources.md
+  - Code Security:
+      - Commit Signing: commit_signing.md
+  - Study Materials: study_materials.md
 theme:
   name: material
 
