@@ -2,6 +2,7 @@
 site_name: Product Security Interview Prep
 nav:
   - Home: index.md
+  - Architecture: architecture.md
   - Resources: resources.md
 theme:
   name: material
