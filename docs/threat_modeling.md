@@ -37,3 +37,9 @@ graph LR
     E1 --> E1b[Threats list]
     E1 --> E1c[Control list]
 ```
+
+## Tools
+
+- **AWS Threat Composer**
+      - [AWS Threat Composer Github](https://github.com/awslabs/threat-composer)
+      - [AWS Threat Compose Site](https://awslabs.github.io/threat-composer/workspaces/default/dashboard)
