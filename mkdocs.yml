@@ -19,9 +19,9 @@ nav:
 theme:
   features:
     - navigation.indexes
-    - navigation.instant
-    - navigation.instant.prefetch
-    - navigation.instant.progress
+    # - navigation.instant
+    # - navigation.instant.prefetch
+    # - navigation.instant.progress
     - navigation.path
     - navigation.tabs
     - navigation.tabs.sticky
